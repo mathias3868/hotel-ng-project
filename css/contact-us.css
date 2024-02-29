@@ -145,11 +145,20 @@
   font-weight: 300;
 }
 
-/* #name,
-#subject,
-#message ::placeholder {
+input ::placeholder {
   color: #b3b3b3;
-} */
+}
+
+.wrap-4 {
+  height: 500px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.wrap-4 h4 {
+  padding-bottom: 30px;
+}
 
 footer {
   background: #ffcb16;
