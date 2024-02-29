@@ -132,7 +132,17 @@
 
 .wrap-4 .col-2 {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  gap: 70px;
+}
+
+.col-2 img {
+}
+
+.col-2 p {
+  padding-top: 10px;
+  font-size: 20px;
+  word-spacing: 5px;
 }
 
 footer {
