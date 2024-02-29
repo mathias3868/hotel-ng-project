@@ -67,7 +67,7 @@
   background-repeat: no-repeat;
   background-blend-mode: rgba(255, 203, 22, 0.27);
   text-align: center;
-  /* background-size: cover; */
+  background-size: cover;
 }
 
 .text {
