@@ -107,12 +107,15 @@
   margin-left: 42%;
 }
 
-.col-1-3Images img {
+.col-1-3Image img {
   position: relative;
 }
 
-.col-1-3Images #third-text {
+.col-1-3Image #third-text {
   position: absolute;
+  top: 250px;
+  margin-top: 60%;
+  left: 500px;
 }
 
 footer {
