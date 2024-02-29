@@ -76,11 +76,46 @@
 }
 
 .wrap-3 {
-  height: 600px;
-  padding: 50px;
+  height: 950px;
+  padding: 70px;
+  color: #ffcb16;
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 3px;
 }
 
-.col-1-2Images footer {
+.col-1-2Images {
+  display: flex;
+}
+
+.col-1-2Images img {
+  position: relative;
+}
+
+.col-1-2Images #first-text {
+  position: absolute;
+  top: 150px;
+  left: 300px;
+  margin-top: 39%;
+}
+
+.col-1-2Images #second-text {
+  position: absolute;
+  top: 150px;
+  left: 300px;
+  margin-top: 39%;
+  margin-left: 42%;
+}
+
+.col-1-3Images img {
+  position: relative;
+}
+
+.col-1-3Images #third-text {
+  position: absolute;
+}
+
+footer {
   background: #ffcb16;
   color: black;
   padding: 50px;
