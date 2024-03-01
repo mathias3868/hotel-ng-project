@@ -222,6 +222,15 @@ footer {
   text-align: right;
 }
 
+.division-3 .platforms {
+  margin-top: 15px;
+  margin-left: 130px;
+}
+
+.division-3 .platforms img {
+  padding-right: 30px;
+}
+
 #lastplatform {
   padding-right: 0;
 }
@@ -232,7 +241,6 @@ hr {
 }
 
 footer .afterhr {
-  text-align: center;
   color: black;
   padding-top: 10px;
   font-size: 17px;

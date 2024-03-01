@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-
   box-sizing: border-box;
   /* font-family: serif; */
 }
@@ -345,7 +344,6 @@ hr {
 }
 
 footer .afterhr {
-  text-align: center; 
   color: black;
   padding-top: 10px;
   font-size: 17px;
