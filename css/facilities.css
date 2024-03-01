@@ -124,7 +124,7 @@
 
 .wrap-4 h3 {
   text-align: center;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
   margin-top: 50px;
   font-size: 30px;
   font-weight: 500;
@@ -134,15 +134,26 @@
   display: flex;
   justify-content: space-around;
   gap: 70px;
+  margin-top: 100px;
+  margin-inline: 10px;
+  margin-bottom: 50px;
+}
+
+.wrap-4 .col-2 div a {
+  text-decoration: none;
+  color: black;
 }
 
 .col-2 img {
+  margin-inline-start: 20px;
+  margin-inline-end: 20px;
 }
 
 .col-2 p {
   padding-top: 10px;
   font-size: 20px;
   word-spacing: 5px;
+  margin-inline: 20px;
 }
 
 footer {
