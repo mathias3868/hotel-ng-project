@@ -71,12 +71,12 @@
 }
 
 .text {
-  padding: 270px 0;
+  padding: 300px 0;
   line-height: 30px;
 }
 
 .wrap-5 {
-  height: 650px;
+  height: 550px;
   padding: 40px;
   background: #fff;
   text-align: center;
@@ -99,11 +99,27 @@
   line-height: 30px;
 }
 
-#price {
+#price-1 {
   padding: 10px 30px;
   background: #ffcb16;
   position: absolute;
-  bottom: -174%;
+  bottom: -37%;
+  margin-left: 170px;
+}
+
+#price-2 {
+  padding: 10px 30px;
+  background: #ffcb16;
+  position: absolute;
+  bottom: -123%;
+  margin-left: 170px;
+}
+
+#price-3 {
+  padding: 10px 30px;
+  background: #ffcb16;
+  position: absolute;
+  bottom: -209%;
   margin-left: 170px;
 }
 
@@ -204,4 +220,21 @@ footer {
 .division-3 p {
   line-height: 30px;
   text-align: right;
+}
+
+#lastplatform {
+  padding-right: 0;
+}
+
+hr {
+  margin-top: 70px;
+  background: black;
+}
+
+footer .afterhr {
+  text-align: center;
+  color: black;
+  padding-top: 10px;
+  font-size: 17px;
+  cursor: pointer;
 }
